@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=chromium-browser --noerrdialogs --kiosk --kiosk-printing --incognito http://localhost:8000
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=Start Chromium wtih KISOK Mode
+Comment[en_US]=
+X-GNOME-Autostart-Delay=3
