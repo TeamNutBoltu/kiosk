@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/nutboltu/start.sh
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=start Canteen App
+Comment[en_US]=
+X-GNOME-Autostart-Delay=1
